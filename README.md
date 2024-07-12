@@ -1,5 +1,9 @@
 # Terraform July 2024 ( 8-12th July 2024 )
 
+## Azure sub cost till now
+<pre>
+  https://www.microsoftazuresponsorships.com/Balance
+</pre>
 ## Post test link
 
 <pre>
